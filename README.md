@@ -52,13 +52,13 @@ The preprocessing and evaluation pipeline requires further reproducibility verif
 
 The following classifiers were investigated:
 
-Category >> Algorithm
+| Category | Algorithm |
 |---|---|
-*Ensemble Learning >> XGBoost 
-*Ensemble Learning >> LightGBM 
-*Ensemble Learning >> CatBoost 
-*Conventional ML >> K-Nearest Neighbors (KNN) 
-*Conventional ML >> Support Vector Machine (SVM) 
+| Ensemble Learning | XGBoost |
+| Ensemble Learning | LightGBM |
+| Ensemble Learning | CatBoost |
+| Conventional Machine Learning | K-Nearest Neighbors (KNN) |
+| Conventional Machine Learning | Support Vector Machine (SVM) |
 
 ### 4. Model Evaluation
 
